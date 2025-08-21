@@ -1,0 +1,4 @@
+/usr/bin/gcc --help
+/usr/bin/grep dump
+/usr/bin/sort
+

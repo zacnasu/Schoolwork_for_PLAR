@@ -1,0 +1,113 @@
+Zachary Nasu 
+V00911790
+
+Linked
+======
+
+10
+linkedmap over 10 iterations.
+[1564432491943 linked] put loop count: 45
+[1564432491943 linked] get loop count: 100
+
+100
+linkedmap over 100 iterations.
+[1564432518824 linked] put loop count: 4950
+[1564432518824 linked] get loop count: 10000
+
+1,000
+linkedmap over 1000 iterations.
+[1564432553763 linked] put loop count: 499500
+[1564432553763 linked] get loop count: 1000000
+
+10,000
+linkedmap over 10000 iterations.
+[1564432579804 linked] put loop count: 49995000
+[1564432579804 linked] get loop count: 100000000
+100,000
+linkedmap over 100000 iterations.
+[1564432609915 linked] put loop count: 4999875141
+[1564432609915 linked] get loop count: 9999453802
+
+300,000
+linkedmap over 300000 iterations.
+[1564432759939 linked] put loop count: 44997409290
+[1564432759939 linked] get loop count: 89992764940
+
+Binary Search Tree
+==================
+
+10
+bst   map over 10 iterations.
+[1564433706296 bst] put loop count: 24
+[1564433706296 bst] get loop count: 39
+
+100
+bst   map over 100 iterations.
+[1564433739457 bst] put loop count: 625
+[1564433739457 bst] get loop count: 783
+
+1,000
+bst   map over 1000 iterations.
+[1564433755630 bst] put loop count: 12141
+[1564433755630 bst] get loop count: 13989
+
+10,000
+bst   map over 10000 iterations.
+[1564433795186 bst] put loop count: 155541
+[1564433795186 bst] get loop count: 176548
+
+100,000
+bst   map over 100000 iterations.
+[1564433816094 bst] put loop count: 2040063
+[1564433816094 bst] get loop count: 2241290
+
+300,000
+bst   map over 300000 iterations.
+[1564433840856 bst] put loop count: 6677873
+[1564433840856 bst] get loop count: 7278539
+
+1,000,000
+bst   map over 1000000 iterations.
+[1564433864486 bst] put loop count: 24519340
+[1564433864486 bst] get loop count: 26520262
+
+Hash 
+====
+
+10
+hash map over 10 iterations.
+[1564434024156 hash] put loop count: 0
+[1564434024156 hash] get loop count: 0
+
+100
+hash map over 100 iterations.
+[1564434039908 hash] put loop count: 0
+[1564434039908 hash] get loop count: 0
+
+1,000
+hash map over 1000 iterations.
+[1564434053299 hash] put loop count: 0
+[1564434053299 hash] get loop count: 0
+
+10,000
+hash map over 10000 iterations.
+[1564434214512 hash] put loop count: 51
+[1564434214512 hash] get loop count: 108
+
+100,000
+hash map over 100000 iterations.
+[1564434078500 hash] put loop count: 4973
+[1564434078500 hash] get loop count: 10114
+
+300,000
+hash map over 300000 iterations.
+[1564434096257 hash] put loop count: 45328
+[1564434096257 hash] get loop count: 89921
+
+1,000,000
+hash map over 1000000 iterations.
+[1564434113827 hash] put loop count: 499908
+[1564434113827 hash] get loop count: 999765
+
+ 
+ 
